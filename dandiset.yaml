@@ -13,17 +13,34 @@ assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
   schemaKey: AssetsSummary
-citation: Sosa, Marielena (2025) Sosa et al. 2025, A flexible hippocampal population
-  code for experience relative to reward (Version draft) [Data set]. DANDI Archive.
-  https://dandiarchive.org/dandiset/001360/draft
+citation: Sosa, Marielena; Plitt, Mark H.; Giocomo, Lisa M.  (2025) Sosa et al. 2025,
+  A flexible hippocampal population code for experience relative to reward (Version
+  draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001360/draft
 contributor:
 - affiliation: []
   email: msosa32@gmail.com
+  identifier: 0000-0003-0762-1128
   includeInCitation: true
   name: Sosa, Marielena
   roleName:
   - dcite:ContactPerson
   schemaKey: Person
+- identifier: 0000-0002-7154-6292
+  includeInCitation: true
+  name: Plitt, Mark H.
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- identifier: 0000-0003-0416-2528
+  includeInCitation: true
+  name: 'Giocomo, Lisa M. '
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- awardNumber: K99MH135993
+  includeInCitation: false
+  name: NIMH BRAIN Initiative K99
+  schemaKey: Organization
 dateCreated: '2025-03-13T05:55:43.573148+00:00'
 description: 2-photon imaging and behavioral data from hippocampal area CA1 during
   virtual reality navigation in mice.  Included in Sosa, Plitt, & Giocomo (2025) "A
